@@ -1,0 +1,142 @@
+cs1302-api-app/:
+total 68
+-rw-r--r--. 1 myid 10720 Dec  3 09:41 APPENDIX_API.md
+-rw-r--r--. 1 myid  3426 Dec  3 09:41 APPENDIX_GIT.md
+drwxr-xr-x. 2 myid    59 Dec  9 14:51 meta
+-rw-r--r--. 1 myid  8409 Dec  3 09:41 pom.xml
+-rwxr-xr-x. 1 myid   105 Dec  3 09:41 prepare-merge.sh
+-rw-r--r--. 1 myid 28794 Dec  3 19:28 README.md
+-rw-r--r--. 1 myid     0 Dec  9 15:24 rec16403
+drwxr-xr-x. 2 myid    98 Dec  3 09:41 resources
+-rwxr-xr-x. 1 myid   119 Dec  3 09:41 run.sh
+drwxr-xr-x. 4 myid    42 Dec  3 09:41 src
+drwxr-xr-x. 5 myid   104 Dec  9 15:20 target
+
+cs1302-api-app/meta:
+total 12
+-rw-r--r--. 1 myid  779 Dec  9 14:51 ATTRIBUTION.md
+-rw-r--r--. 1 myid 5880 Dec  9 14:43 DEADLINE.md
+
+cs1302-api-app/resources:
+total 2060
+-rw-r--r--. 1 myid      64 Dec  3 09:41 config.properties
+-rw-r--r--. 1 myid  582183 Dec  3 09:41 readme-banner.png
+-rw-r--r--. 1 myid 1518790 Dec  3 09:41 readme-newrepo.png
+
+cs1302-api-app/src:
+total 0
+drwxr-xr-x. 3 myid 26 Dec  3 09:41 main
+drwxr-xr-x. 3 myid 50 Dec  3 09:41 site
+
+cs1302-api-app/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 Dec  3 09:41 java
+
+cs1302-api-app/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  25 Dec  3 09:41 cs1302
+-rw-r--r--. 1 myid 373 Dec  3 09:41 module-info.java
+
+cs1302-api-app/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 Dec  9 15:20 api
+
+cs1302-api-app/src/main/java/cs1302/api:
+total 188
+-rw-r--r--. 1 myid 29498 Dec  9 14:49 ApiApp.java
+-rw-r--r--. 1 myid  1285 Dec  3 09:41 ApiDriver.java
+-rw-r--r--. 1 myid  8918 Dec  9 14:45 ApiService.java
+-rw-r--r--. 1 myid 14618 Dec  9 14:30 Assumptions.java
+-rw-r--r--. 1 myid 19509 Dec  4 22:50 BalanceSheetAnnualReport.java
+-rw-r--r--. 1 myid  1843 Dec  4 23:43 BalanceSheet.java
+-rw-r--r--. 1 myid  9322 Dec  4 23:39 CurrentPriceDetails.java
+-rw-r--r--. 1 myid  1224 Dec  4 23:41 CurrentPrice.java
+-rw-r--r--. 1 myid 34599 Dec  9 15:20 ForecastingFinancialStatements.java
+-rw-r--r--. 1 myid 11731 Dec  4 23:16 IncomeStatementAnnualReport.java
+-rw-r--r--. 1 myid  1890 Dec  4 23:29 IncomeStatement.java
+-rw-r--r--. 1 myid  1007 Dec  4 23:26 Meta.java
+-rw-r--r--. 1 myid  3042 Dec  4 21:24 MockBalanceSheet.java
+-rw-r--r--. 1 myid  2807 Dec  5 00:20 MockDataTopGainersLosers.java
+-rw-r--r--. 1 myid  2199 Dec  4 23:10 MockIncomeStatement.java
+-rw-r--r--. 1 myid  4332 Dec  3 09:41 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid  1689 Dec  3 09:41 PropertiesExample.java
+-rw-r--r--. 1 myid  4046 Dec  4 23:21 TopGainersLosers.java
+
+cs1302-api-app/src/site:
+total 4
+drwxr-xr-x. 2 myid  33 Dec  3 09:41 markdown
+-rw-r--r--. 1 myid 424 Dec  3 09:41 site.xml
+
+cs1302-api-app/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 Dec  3 09:41 index.md.vm
+
+cs1302-api-app/target:
+total 4
+drwxr-xr-x. 3 myid  145 Dec  9 15:20 classes
+drwxr-xr-x. 3 myid   25 Dec  9 15:20 generated-sources
+drwxr-xr-x. 3 myid   43 Dec  9 15:20 maven-status
+-rw-r--r--. 1 myid 1299 Dec  9 15:20 modulepath
+
+cs1302-api-app/target/classes:
+total 2064
+-rw-r--r--. 1 myid      64 Dec  9 15:20 config.properties
+drwxr-xr-x. 3 myid      25 Dec  9 15:20 cs1302
+-rw-r--r--. 1 myid     356 Dec  9 15:20 module-info.class
+-rw-r--r--. 1 myid  582183 Dec  9 15:20 readme-banner.png
+-rw-r--r--. 1 myid 1518790 Dec  9 15:20 readme-newrepo.png
+
+cs1302-api-app/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 Dec  9 15:20 api
+
+cs1302-api-app/target/classes/cs1302/api:
+total 156
+-rw-r--r--. 1 myid  1311 Dec  9 15:20 ApiApp$1.class
+-rw-r--r--. 1 myid  3723 Dec  9 15:20 ApiApp$2.class
+-rw-r--r--. 1 myid 19552 Dec  9 15:20 ApiApp.class
+-rw-r--r--. 1 myid  1503 Dec  9 15:20 ApiDriver.class
+-rw-r--r--. 1 myid  6924 Dec  9 15:20 ApiService.class
+-rw-r--r--. 1 myid  5527 Dec  9 15:20 Assumptions.class
+-rw-r--r--. 1 myid  9144 Dec  9 15:20 BalanceSheetAnnualReport.class
+-rw-r--r--. 1 myid  1835 Dec  9 15:20 BalanceSheet.class
+-rw-r--r--. 1 myid   825 Dec  9 15:20 CurrentPrice.class
+-rw-r--r--. 1 myid  4198 Dec  9 15:20 CurrentPriceDetails.class
+-rw-r--r--. 1 myid 24422 Dec  9 15:20 ForecastingFinancialStatements.class
+-rw-r--r--. 1 myid  5576 Dec  9 15:20 IncomeStatementAnnualReport.class
+-rw-r--r--. 1 myid  1856 Dec  9 15:20 IncomeStatement.class
+-rw-r--r--. 1 myid   667 Dec  9 15:20 Meta.class
+-rw-r--r--. 1 myid  3242 Dec  9 15:20 MockBalanceSheet.class
+-rw-r--r--. 1 myid  2770 Dec  9 15:20 MockDataTopGainersLosers.class
+-rw-r--r--. 1 myid  2376 Dec  9 15:20 MockIncomeStatement.class
+-rw-r--r--. 1 myid  5993 Dec  9 15:20 OpenLibrarySearchApi.class
+-rw-r--r--. 1 myid   493 Dec  9 15:20 OpenLibrarySearchApi$OpenLibraryDoc.class
+-rw-r--r--. 1 myid   617 Dec  9 15:20 OpenLibrarySearchApi$OpenLibraryResult.class
+-rw-r--r--. 1 myid  1688 Dec  9 15:20 PropertiesExample.class
+-rw-r--r--. 1 myid  1446 Dec  9 15:20 TopGainersLosers.class
+-rw-r--r--. 1 myid  1184 Dec  9 15:20 TopGainersLosers$TickerInfo.class
+
+cs1302-api-app/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Dec  9 15:20 annotations
+
+cs1302-api-app/target/generated-sources/annotations:
+total 0
+
+cs1302-api-app/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Dec  9 15:20 maven-compiler-plugin
+
+cs1302-api-app/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Dec  9 15:20 compile
+
+cs1302-api-app/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 52 Dec  9 15:20 default-compile
+
+cs1302-api-app/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid  839 Dec  9 15:20 createdFiles.lst
+-rw-r--r--. 1 myid 1545 Dec  9 15:20 inputFiles.lst
+/home/myid/jcc54680/cs1302-api-app/:/home/myid/csci-1302
